@@ -1,3 +1,3 @@
-# djangoblog
-django blog(Python/Django)
+# Djangoblog
+(Python/Django)
 this my django blog
